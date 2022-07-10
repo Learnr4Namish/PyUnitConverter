@@ -1,0 +1,1 @@
+mass = input("Please enter the mass of the bosy in kg")
